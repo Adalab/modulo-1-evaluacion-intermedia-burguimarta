@@ -58,7 +58,7 @@ body {
     background-color: var(--principal_color);
     color: var(--tertiary_color);
     position: relative;
-    top: 118px;
+    top: 0px;
 }
 
 .main_container {
